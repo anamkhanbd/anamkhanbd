@@ -21,10 +21,7 @@ Skills: PHP/LARAVEL/jQuery/ JS / HTML / CSS/Bootstrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamkhanbd)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamkhanbd&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anamkhanbd)  
 
- /*![GitHub metrics](https://metrics.lecoq.io/anamkhanbd)  */
-
-/*![Profile views](https://gpvc.arturio.dev/anamkhanbd)  */
+![GitHub metrics](https://metrics.lecoq.io/anamkhanbd) 
+![Profile views](https://gpvc.arturio.dev/anamkhanbd) 
