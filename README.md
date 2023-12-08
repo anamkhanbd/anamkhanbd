@@ -10,7 +10,7 @@ Skills: PHP/LARAVEL/jQuery/ JS / HTML / CSS/Bootstrap
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Google 
-- 💬 Ask me about Fontend Development and Web Development 
+- 💬 Ask me about Frontend Development and Web Development 
 
 
  
@@ -25,6 +25,6 @@ Skills: PHP/LARAVEL/jQuery/ JS / HTML / CSS/Bootstrap
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anamkhanbd)  
 
-![GitHub metrics](https://metrics.lecoq.io/anamkhanbd)  
+ /*![GitHub metrics](https://metrics.lecoq.io/anamkhanbd)  */
 
-![Profile views](https://gpvc.arturio.dev/anamkhanbd)  
+/*![Profile views](https://gpvc.arturio.dev/anamkhanbd)  */
