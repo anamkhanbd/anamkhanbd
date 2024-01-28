@@ -1,4 +1,5 @@
-![Web Developer and Designer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/384421542_1627377851123056_7074121504657416897_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFdBi5CKt9Zi4Z9M2fBKKifP26wVGwuZxc_brBUbC5nF4VAAYK4zM0StDE8x9gtxrj79m0naQkTb4YofCkr_Msc&_nc_ohc=DbFYHj1-njkAX-m24IU&_nc_ht=scontent.fdac24-1.fna&oh=00_AfCqbrYml3BqjwwXovcNd749PFScJalog85NaAPK9ZLPLA&oe=654AE878)
+![Web Developer and Designer](![Uploading image.png…]()
+)
 ### Hi there 👋, I'm "ANAM"
 #### Web Developer and Designer
 
