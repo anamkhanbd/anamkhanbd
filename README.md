@@ -4,7 +4,6 @@
 #### Web Developer and Designer
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anamkhanbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamkhanbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anamkhanbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anamkhan.bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anam_khanbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlekeep.svg' alt='googlekeep' height='40'>](anamkhanbd2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](anamkhanbd) 
 
 Skills: PHP/LARAVEL/jQuery/ JS / HTML / CSS/Bootstrap
 
