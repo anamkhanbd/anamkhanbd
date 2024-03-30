@@ -1,5 +1,3 @@
-![Web Developer and Designer](![Uploading image.png…]()
-)
 ### Hi there 👋, I'm "ANAM"
 #### Web Developer and Designer
 
