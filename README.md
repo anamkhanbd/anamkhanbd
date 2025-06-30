@@ -2,6 +2,27 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#e63946">ANAM</span></h1>
 <h3 align="center">💻 Web Developer & Designer | PHP & Laravel Enthusiast</h3>
 
+
+# 🌐 Connect with Me
+
+Welcome to my GitHub Pages project! You can find and follow me on these platforms:
+
+<p align="center">
+  <a href="https://facebook.com/anamkhanbd" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="50" alt="Facebook"/>
+  </a>
+  <a href="https://youtube.com/@uttartech" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube"/>
+  </a>
+  <a href="https://twitter.com/anamkhan.bd" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/anamkhanbd" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 ---
 
 ### 🧰 Tech Stack
