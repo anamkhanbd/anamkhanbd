@@ -1,67 +1,137 @@
-<h1 align="center">Hi 👋, I'm <a href="https://facebook.com/anamkhanbd" target="blank">
-A H ANAM</a></h1>
-<h3 align="center">A passionate Webapplication & Website developer from Bangladesh &#127470;&#127475</h3>
+# Rabbil Hasan 
+### Software Engineering Manager
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<div style="display:flex">
+  <a href="https://rabbil.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.linkedin.com/in/rabbilhasan/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.facebook.com/rabbil.rupom"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
+</div>
+<br>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rupomsoft&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+### Love to code
 
-- 🤝 I’m available for freelancing.
+<div style="display:flex">
+  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
+</div>
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+### Favourite Tools
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+<div style="display:flex">
+<img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/PhpStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
+</div>
 
-- 💬 Ask me about **Reactjs & React-Native**
+###  Open Source Contribution Going:
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+<table>
+<tbody>
+<tr>
+<td>
+<div style="cursor:pointer"  href="https://github.com/rupomsoft/mern-x">
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
 
-<p align="center">
+</div>
+</td>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/anamkhanbd/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/anamkhanbd">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="#">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="#">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/anamkhan.bd">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/anamkhanbd">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@uttertech">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<td>
+<div style="cursor:pointer" href="https://github.com/rupomsoft/express-fileforge">
 
-</p>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge&theme=dark)
+</div>
+</td>
+</tr>
 
-### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
 
----
+<tr>
+<td>
+<div style="cursor: pointer" href="https://github.com/rupomsoft/Next-File">
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
 
-Last Edited on: 08/08/2022
+</div>
+
+</td>
+
+<td>
+<div style="cursor: pointer" href="https://github.com/rupomsoft/MERN-STACK-Series">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series&theme=dark)
+</div>
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+
+### About
+I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers community. I am working on web & mobile application development more than 8 years. Research & development, teaching, community leading is the top most noticeable skill inside me.
+
+### Working Area
+
+1. Stock Market Trading, Online Deposit , Mutual Fund Investment system
+2. Electronic Know Your Customer (e-KYC)
+3. Core Solutions for Stock Exchange Brokerage.
+4. Third Party Business Partner Management (TPBP)
+5. Online Credit Appraisal System
+6. Investment Banking, Corporate Finance, Consumer Banking
+7. Payment System Design B2B & B2C
+
+
+###  Completed R&D Past Years:
+
+1. Best practices for Restful API & mobile application development.
+2. Best practices for single page web application development.
+3. Cross platform install-able PWA development.
+5. Bio-metric face analysis & recognition using TensorFlow
+6. Optical character recognition using Tesseract engine
+7. High performance & reusable JavaScript component development.
+8. Web application optimization to reduce server load.
+9. Web security practices
+
+
+<table>
+<tbody>
+
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark)
+
+</td>
+
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+</table>
